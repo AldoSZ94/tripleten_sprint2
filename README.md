@@ -1,6 +1,6 @@
 # 📈 Proyecto: Análisis Avanzado de Clientes para Store 1
 
-Este proyecto representa la segunda etapa en el análisis de datos para **Store 1**, una empresa de comercio electrónico. En esta fase, el objetivo fue profundizar en el conocimiento del comportamiento de los clientes mediante el análisis de datos más complejos.
+Este es mi proyecto perteneciente al **Sprint N° 2** de mi formación como **Analista de Datos Jr. en TripleTen**. Este proyecto representa la segunda etapa en el análisis de datos para **Store 1**, una empresa de comercio electrónico. En esta fase, el objetivo fue profundizar en el conocimiento del comportamiento de los clientes mediante el análisis de datos más complejos.
 
 🔍 **Propósito del análisis**  
 Personalizar aún más las campañas publicitarias a través de:
